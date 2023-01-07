@@ -1,9 +1,9 @@
 echo Hello World
 echo "***Hello World***"
 
-You can give color to the messages, Unix supports 6 colors
-Red   Green   Yellow  Blue  Magenta Cyan
-Syntax:
+#You can give color to the messages, Unix supports 6 colors
+#Red   Green   Yellow  Blue  Magenta Cyan
+#Syntax:
 # Color Code Syntax : echo -e "\e[COLmMESSAGE\e[0m"
 # Red - 31 - echo -e "\e[31mMESSAGE\e[0m"
 # Green - 32 - echo -e "\e[32mMESSAGE\e[0m"
